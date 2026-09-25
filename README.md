@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
