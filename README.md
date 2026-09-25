@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
