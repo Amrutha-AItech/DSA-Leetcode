@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0739-daily-temperatures) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0763-partition-labels) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
