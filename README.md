@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -324,4 +326,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
