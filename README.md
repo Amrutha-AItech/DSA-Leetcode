@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
