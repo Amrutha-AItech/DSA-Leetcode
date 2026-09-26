@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -296,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
