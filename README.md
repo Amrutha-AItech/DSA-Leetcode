@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0198-house-robber) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0494-target-sum) |
 ## Shortest Path
 |  |
