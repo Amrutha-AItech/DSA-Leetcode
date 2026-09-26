@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -278,7 +280,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
