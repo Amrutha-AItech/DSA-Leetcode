@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0139-word-break) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0567-permutation-in-string) |
