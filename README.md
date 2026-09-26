@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0739-daily-temperatures) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |
