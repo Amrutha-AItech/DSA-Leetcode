@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0767-reorganize-string) |
 | [0815-bus-routes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1051-height-checker) |
 | [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0767-reorganize-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
