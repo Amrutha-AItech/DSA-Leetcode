@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0377-combination-sum-iv) |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0212-word-search-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
@@ -501,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
@@ -609,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -677,10 +684,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Floyd–Warshall Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Geometry
 |  |
