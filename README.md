@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0139-word-break) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0221-maximal-square) |
