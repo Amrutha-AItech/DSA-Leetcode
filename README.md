@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0473-matchsticks-to-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0136-single-number) |
+| [0473-matchsticks-to-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0542-01-matrix) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0212-word-search-ii) |
+| [0473-matchsticks-to-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dancing Links
 |  |
