@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0212-word-search-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
@@ -667,4 +673,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
