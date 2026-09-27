@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0460-lfu-cache) |
 ## DP on Trees
 |  |
 | ------- |
