@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0739-daily-temperatures) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0136-single-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 ## Hash Table
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 ## Shortest Path
 |  |
@@ -830,4 +835,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
