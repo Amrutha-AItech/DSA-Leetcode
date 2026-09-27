@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
 | [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1051-height-checker) |
+| [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
 ## Counting
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
 | [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Union-Find
 |  |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -666,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0212-word-search-ii) |
+| [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
 ## Brute-Force Search
 |  |
 | ------- |
