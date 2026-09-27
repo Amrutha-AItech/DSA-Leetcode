@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 ## Hash Table
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1143-longest-common-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1192-critical-connections-in-a-network](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -912,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Dancing Links
 |  |
 | ------- |
