@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
