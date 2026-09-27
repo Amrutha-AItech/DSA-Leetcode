@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0567-permutation-in-string) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0773-sliding-puzzle) |
 ## Trie
