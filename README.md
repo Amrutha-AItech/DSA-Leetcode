@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Two Pointers
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
@@ -655,4 +659,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1051-height-checker) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
