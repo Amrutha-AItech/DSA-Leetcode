@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0815-bus-routes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0763-partition-labels) |
+| [0815-bus-routes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0815-bus-routes) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
