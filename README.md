@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0934-shortest-bridge) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1046-last-stone-weight) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0981-time-based-key-value-store) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0827-making-a-large-island) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0841-keys-and-rooms) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1192-critical-connections-in-a-network](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
