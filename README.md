@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1051-height-checker) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -848,4 +852,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
