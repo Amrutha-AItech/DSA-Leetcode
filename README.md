@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -626,12 +629,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
