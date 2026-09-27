@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0909-snakes-and-ladders](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0934-shortest-bridge) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0973-k-closest-points-to-origin](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0886-possible-bipartition](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0886-possible-bipartition) |
+| [0909-snakes-and-ladders](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/1020-number-of-enclaves) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0909-snakes-and-ladders](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Amrutha-AItech/DSA-Leetcode/tree/master/0994-rotting-oranges) |
